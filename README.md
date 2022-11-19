@@ -9,5 +9,5 @@ This allows people to borrow a bike from point A and return it at point B, thoug
 Regardless, each bike can serve several users per day.
 Thanks to the rise in information technologies, it is easy for a user of the system to access a dock within the system to unlock or return bicycles.
 These technologies also provide a wealth of data that can be used to explore how these bike-sharing systems are used.
-In this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. 
+In this project, I will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. 
 I will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
